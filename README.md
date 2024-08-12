@@ -3,3 +3,5 @@ In this project, I worked as a Junior Data Engineer for Gans, a company focused 
 To address these challenges, I recognized the importance of data-driven insights and predictive modelling. The steps involved in this project includes:
 Local pipeline: Data Collection (Web scrapping, API), Data Storage (SQL Database)
 Cloud pipeline: CGP MySQL, Cloud Function and Cloud Scheduler 
+
+Here is a link to my medium post on this project: https://medium.com/@deolapopson/building-a-data-pipeline-with-python-and-gcp-a-journey-of-learning-and-accomplishment-f9e8f8fe4089
